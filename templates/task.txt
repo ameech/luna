@@ -1,0 +1,6 @@
+name: Rename Me
+tags: foo,bar
+---
+[ ] Example Todo
+---
+Text goes here!
